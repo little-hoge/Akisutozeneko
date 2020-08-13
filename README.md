@@ -4,4 +4,4 @@
 - 1桁まで実行後、あきすとぜねこ占い実行  
 
 # デモ
-[あきすとぜねこ](little-hoge.github.io/Akisutozeneko)
+[あきすとぜねこ](https://little-hoge.github.io/Akisutozeneko/)
